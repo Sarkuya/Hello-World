@@ -92,7 +92,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IMBELnrVSliVJA-H-ImH-16" parent="1" style="shape=table;startSize=34;container=1;collapsible=0;childLayout=tableLayout;fixedHeader=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" value="accessor0" vertex="1">
-          <mxGeometry height="308.75" width="187.75" x="-283" y="260" as="geometry" />
+          <mxGeometry height="308.75" width="187.75" x="-279" y="22" as="geometry" />
         </mxCell>
         <mxCell id="IMBELnrVSliVJA-H-ImH-17" parent="IMBELnrVSliVJA-H-ImH-16" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;" value="" vertex="1">
           <mxGeometry height="41" width="187.75" y="34" as="geometry" />
