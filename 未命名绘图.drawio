@@ -1,0 +1,39 @@
+<mxfile host="app.diagrams.net">
+  <diagram id="BZvedy4mBk2RI_J5c_5u" name="第 1 页">
+    <mxGraphModel dx="912" dy="956" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-Ds3_SINnqwqFCvs20sv-1" parent="1" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedHeader=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" value="buffer0" vertex="1">
+          <mxGeometry height="110" width="165.5" x="-76" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ds3_SINnqwqFCvs20sv-2" parent="-Ds3_SINnqwqFCvs20sv-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;" value="" vertex="1">
+          <mxGeometry height="40" width="165.5" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ds3_SINnqwqFCvs20sv-3" parent="-Ds3_SINnqwqFCvs20sv-2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;" value="uri" vertex="1">
+          <mxGeometry height="40" width="71" as="geometry">
+            <mxRectangle height="40" width="71" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Ds3_SINnqwqFCvs20sv-4" parent="-Ds3_SINnqwqFCvs20sv-2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="data:URL" vertex="1">
+          <mxGeometry height="40" width="95" x="71" as="geometry">
+            <mxRectangle height="40" width="95" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Ds3_SINnqwqFCvs20sv-5" parent="-Ds3_SINnqwqFCvs20sv-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;" value="" vertex="1">
+          <mxGeometry height="40" width="165.5" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ds3_SINnqwqFCvs20sv-6" parent="-Ds3_SINnqwqFCvs20sv-5" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;" value="byteLength" vertex="1">
+          <mxGeometry height="40" width="71" as="geometry">
+            <mxRectangle height="40" width="71" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Ds3_SINnqwqFCvs20sv-7" parent="-Ds3_SINnqwqFCvs20sv-5" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="36" vertex="1">
+          <mxGeometry height="40" width="95" x="71" as="geometry">
+            <mxRectangle height="40" width="95" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
